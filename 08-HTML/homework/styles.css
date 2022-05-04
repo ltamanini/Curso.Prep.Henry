@@ -9,7 +9,7 @@ img {
     width: 500px;
     background-color: rgba(177, 177, 247, 0.849);
     padding: 50px;
-    border: 2px;
+    border: 2px solid blue;
 }
 #spanId {
     font-size: 18px;
